@@ -1,5 +1,6 @@
 # AGC
 Autonomous Gardening Cart
 
-Developement team:
+Development team:
 Power Ohm-bres (Chad Swinney, Colton Guillotte, Kyle Jones, Ryan Perryman, Chase Clark)
+
